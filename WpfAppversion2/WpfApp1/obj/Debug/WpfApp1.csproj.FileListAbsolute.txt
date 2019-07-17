@@ -1,0 +1,15 @@
+C:\Users\73760\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\73760\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\73760\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\73760\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\73760\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\73760\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\73760\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\73760\source\repos\WpfApp1\WpfApp1\bin\Debug\JuniorTest.exe.config
+C:\Users\73760\source\repos\WpfApp1\WpfApp1\bin\Debug\JuniorTest.exe
+C:\Users\73760\source\repos\WpfApp1\WpfApp1\bin\Debug\JuniorTest.pdb
+C:\Users\73760\source\repos\WpfApp1\WpfApp1\obj\Debug\JuniorTest_MarkupCompile.cache
+C:\Users\73760\source\repos\WpfApp1\WpfApp1\obj\Debug\JuniorTest_MarkupCompile.lref
+C:\Users\73760\source\repos\WpfApp1\WpfApp1\obj\Debug\JuniorTest.g.resources
+C:\Users\73760\source\repos\WpfApp1\WpfApp1\obj\Debug\JuniorTest.exe
+C:\Users\73760\source\repos\WpfApp1\WpfApp1\obj\Debug\JuniorTest.pdb
